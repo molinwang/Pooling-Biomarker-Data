@@ -1,0 +1,1 @@
+This repository contains R programs implementing the statistical methods from 5 papers on pooling biomarker data published by Dr. Molin Wang's group. Each of the 5 folders in the main branch contain the same files as those in the other branches. You can either look into the folders in the main branch or look into the branches.  
